@@ -27,8 +27,7 @@ SECRET_KEY = 'django-insecure-lzc)l!c$ew3kylcssvcvdr^5^ww9=wp$ivt@&$o6pei+!0$oug
 
 DEBUG = True
 
-
-ALLOWED_HOSTS = ['54.233.92.107', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['eja.semedcanaadoscarajas.pa.gov.br', 'www.eja.semedcanaadoscarajas.pa.gov.br']
 
 
 INSTALLED_APPS = [
