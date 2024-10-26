@@ -29,7 +29,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['eja.semedcanaadoscarajas.pa.gov.br', 'www.eja.semedcanaadoscarajas.pa.gov.br']
 
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
